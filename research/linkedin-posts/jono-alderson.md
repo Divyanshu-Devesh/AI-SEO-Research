@@ -8,7 +8,7 @@ Date of post: 22 June, 2026
 https://www.linkedin.com/posts/jonoalderson_technical-debt-is-becoming-an-ai-problem-activity-7474796921426149376-Oefw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAERrcd8BWucVWFMWlsiuNMmxbY6ssfFP3b4
 
 # Topic:
-Technical Debt, becoming an AI problem.
+Technical Debt becoming an AI problem.
 
 # Summary:
 Jono Alderson argues that the frantic business debate over which AI protocols (like llms.txt or WebMCP) to invest in misses the point entirely. The tech industry treats AI as a passing storm that will eventually clear into a stable landscape, but the reality is an era of permanently accelerating change. The true barrier to AI adoption isn't the complexity of the new protocols themselves, but the crushing weight of internal technical debt (fragmented CMSs, siloed data, poor governance). The organizations succeeding today aren't necessarily "AI-first"; they are simply the ones that spent years doing the unglamorous work of reducing internal complexity, making adaptation cheap, fast, and risk-free.
