@@ -1,0 +1,32 @@
+[
+    {
+        "expert": "Nathan Gotch",
+        "video_id": "6o0mabKRmIo",
+        "status": "success",
+        "file": "research/youtube-transcripts/Nathan Gotch_6o0mabKRmIo.md"
+    },
+    {
+        "expert": "Marvomatic_AI_Automations",
+        "video_id": "FIYwJPPdtug",
+        "status": "success",
+        "file": "research/youtube-transcripts/Marvomatic_AI_Automations_FIYwJPPdtug.md"
+    },
+    {
+        "expert": "Tim_the_SEO_Guru",
+        "video_id": "S3XcqumU2wQ",
+        "status": "success",
+        "file": "research/youtube-transcripts/Tim_the_SEO_Guru_S3XcqumU2wQ.md"
+    },
+    {
+        "expert": "Ahrefs_Sam_Oh",
+        "video_id": "tiW6xRYSXmM",
+        "status": "success",
+        "file": "research/youtube-transcripts/Ahrefs_Sam_Oh_tiW6xRYSXmM.md"
+    },
+    {
+        "expert": "Authority_Hacker",
+        "video_id": "JMbRFcQobHU",
+        "status": "success",
+        "file": "research/youtube-transcripts/Authority_Hacker_JMbRFcQobHU.md"
+    }
+]
