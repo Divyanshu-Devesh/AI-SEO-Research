@@ -8,7 +8,7 @@ from youtube_transcript_api import (
     NoTranscriptFound
 )
 
-# YOUR EXPERTS + VIDEOS
+# EXPERTS + VIDEOS
 VIDEOS = {
     "Nathan Gotch": "https://youtube.com/watch?v=6o0mabKRmIo",
     "Marvomatic_AI_Automations": "https://youtu.be/FIYwJPPdtug",
