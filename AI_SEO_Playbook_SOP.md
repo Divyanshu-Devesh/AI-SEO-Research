@@ -266,7 +266,7 @@
 > Primary Issue: 
   - Over-reliance on localized desktop persistence and programmatic text-article generation.
 
-> Why he should not be follow:
+> Why he should not be followed:
   - **Architecture Scale Failure**: Recommending localized workspace setups (e.g., storing context, prompts, and skills in local VS Code folders) introduces severe organizational bottlenecks. It traps critical brand assets on single machines, creates data silos, and fails completely when scaled across collaborative teams or enterprise environments where centralized data governance is required.
 
   - **Outdated Search Assumptions**: Promotes exhaustively targeting bottom-of-the-funnel (BoFu) long-tail text queries through automated blog generation. In modern AI search paradigms (ChatGPT, Perplexity, Google AI Overviews), LLMs instantly answer informational long-tail text queries on the search page. Building a strategy around publishing hundreds of static text articles for long-tail keywords yields rapidly diminishing click-through returns compared to building interactive tools or securing entity-level citations.
@@ -276,7 +276,7 @@
 > Primary Issue:
   - Uncontrolled third-party API dependencies inside automated content generation loops.
 
-> Why he should not be follow:
+> Why he should not be followed:
   - **High Risk of Content Degradation**: Directing content generation prompts to query live web-search APIs (such as Perplexity) to autonomously pull statistical claims and source links bypasses human editorial verification. This exposes enterprise publishing workflows to hallucinated data, competitor fluff, and broken markdown citations.
   
   - **Ignoring First-Party Grounding**: Bypassing explicit first-party URLs and curated internal assets in favor of real-time web scraping dilutes brand authority. While automated API pipelines look impressive in workflow diagrams, they lack the multi-layer security, prompt injection defenses, and brand voice controls necessary for production-grade enterprise deployments.
