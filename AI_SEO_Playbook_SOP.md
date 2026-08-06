@@ -267,9 +267,9 @@
   - Over-reliance on localized desktop persistence and programmatic text-article generation.
 
 > Why he should not be followed:
-  - **Architecture Scale Failure**: Recommending localized workspace setups (e.g., storing context, prompts, and skills in local VS Code folders) introduces severe organizational bottlenecks. It traps critical brand assets on single machines, creates data silos, and fails completely when scaled across collaborative teams or enterprise environments where centralized data governance is required.
+  - **Architecture Scale Failure**: Recommending local workspace setups (storing context, prompts, and skills in local VS Code folders) creates severe operational bottlenecks. It locks critical assets onto single machines, creates data silos, and fails in collaborative or enterprise environments that require centralized governance.
 
-  - **Outdated Search Assumptions**: Promotes exhaustively targeting bottom-of-the-funnel (BoFu) long-tail text queries through automated blog generation. In modern AI search paradigms (ChatGPT, Perplexity, Google AI Overviews), LLMs instantly answer informational long-tail text queries on the search page. Building a strategy around publishing hundreds of static text articles for long-tail keywords yields rapidly diminishing click-through returns compared to building interactive tools or securing entity-level citations.
+  - **Outdated Search Assumptions**: Promotes exhaustively targeting bottom-of-the-funnel (BoFu) long-tail text queries through automated blog generation. In modern AI search paradigms (ChatGPT, Perplexity, Google AI Overviews), LLMs instantly answer informational long-tail text queries on the search page. Building a strategy around publishing hundreds of static text articles for long-tail keywords yields rapidly diminishing click-through returns compared to building interactive tools or securing entity-level citations.git
 
 ### 2. Marvomatic | AI Automations
 
@@ -277,9 +277,9 @@
   - Uncontrolled third-party API dependencies inside automated content generation loops.
 
 > Why he should not be followed:
-  - **High Risk of Content Degradation**: Directing content generation prompts to query live web-search APIs (such as Perplexity) to autonomously pull statistical claims and source links bypasses human editorial verification. This exposes enterprise publishing workflows to hallucinated data, competitor fluff, and broken markdown citations.
+  - **High Risk of Content Degradation**: Instructing content generation prompts to query live search APIs (like Perplexity) to automatically pull stats and citation links bypasses human verification. This exposes publishing workflows to hallucinated data, low-quality competitor copy, and broken markdown links.
   
-  - **Ignoring First-Party Grounding**: Bypassing explicit first-party URLs and curated internal assets in favor of real-time web scraping dilutes brand authority. While automated API pipelines look impressive in workflow diagrams, they lack the multi-layer security, prompt injection defenses, and brand voice controls necessary for production-grade enterprise deployments.
+  - **Ignoring First-Party Grounding**: Skipping explicit first-party URLs and curated internal assets in favor of real-time web scraping weakens brand authority. While automated API flows look impressive and significant in diagrams, they lack the security controls, prompt injection defenses, and brand voice safeguards required for production-grade enterprise deployment.
 
 
                                     ---------------------*---------------------*---------------------
